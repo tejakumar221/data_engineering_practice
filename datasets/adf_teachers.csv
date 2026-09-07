@@ -1,0 +1,16 @@
+teacher_id,teacher_full_name,gender,date_of_birth,joining_date,subject,qualification,salary,contact_number,classes_handle
+501,Anand Reddy,Male,1984-05-14,2012-06-11,Mathematics,"M.Sc Mathematics, B.Ed",62000,9876501001,6-A
+502,Lakshmi Priya,Female,1987-09-22,2014-06-09,English,"M.A English, B.Ed",59000,9876501002,6-B
+503,Ramesh Kumar,Male,1982-12-03,2010-06-14,Science,"M.Sc Science, B.Ed",64000,9876501003,6-C
+504,Sowmya Nair,Female,1989-03-18,2015-06-08,Mathematics,"M.Sc Mathematics, B.Ed",60000,9876501004,7-A
+505,Vikram Sharma,Male,1985-07-27,2013-06-10,Social Science,"M.A History, B.Ed",61000,9876501005,7-B
+506,Deepa Iyer,Female,1990-11-09,2016-06-13,English,"M.A English, B.Ed",58000,9876501006,7-C
+507,Srinivas Rao,Male,1981-01-25,2009-06-15,Physics,"M.Sc Physics, B.Ed",68000,9876501007,8-A
+508,Harini Gupta,Female,1988-06-30,2014-06-16,Chemistry,"M.Sc Chemistry, B.Ed",63000,9876501008,8-B
+509,Manoj Verma,Male,1986-10-12,2012-06-18,Computer Science,M.Tech Computer Science,70000,9876501009,8-C
+510,Pavani Reddy,Female,1987-02-07,2013-06-17,Mathematics,"M.Sc Mathematics, B.Ed",66000,9876501010,9-A
+511,Karthik Nair,Male,1983-08-19,2011-06-13,Physics,"M.Sc Physics, B.Ed",69000,9876501011,9-B
+512,Anusha Mehta,Female,1991-04-23,2017-06-12,Chemistry,"M.Sc Chemistry, B.Ed",62000,9876501012,9-C
+513,Rajesh Singh,Male,1980-09-05,2008-06-09,Mathematics,"M.Sc Mathematics, B.Ed",75000,9876501013,10-A
+514,Bhavana Joshi,Female,1985-12-16,2012-06-11,Physics,"M.Sc Physics, B.Ed",71000,9876501014,10-B
+515,Pradeep Das,Male,1982-03-28,2010-06-07,Chemistry,"M.Sc Chemistry, B.Ed",72000,9876501015,10-C

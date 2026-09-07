@@ -1,0 +1,121 @@
+order_id,order_date,customer_id,customer_name,customer_city,customer_state,product_id,product_name,category,brand,quantity,unit_price,discount_percent,tax_percent,gross_amount,discount_amount,tax_amount,total_amount,payment_method,order_status,salesperson_id,salesperson_name,warehouse_id,delivery_date
+5001,2026-06-13,1002,Diya Reddy,Bengaluru,Karnataka,201,Laptop,Electronics,Dell,3,62000,5,5,186000,9300.0,8835.0,185535.0,Credit Card,Processing,306,Farhan Ali,401,
+5002,2026-06-01,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,201,Laptop,Electronics,Dell,1,62000,5,5,62000,3100.0,2945.0,61845.0,Cash on Delivery,Shipped,301,Anil Kumar,402,
+5003,2026-07-03,1011,Rahul Verma,Noida,Uttar Pradesh,212,Desk Lamp,Home,Philips,4,1800,5,12,7200,360.0,820.8,7660.8,Cash on Delivery,Delivered,305,Esha Nair,401,2026-07-11
+5004,2026-07-26,1003,Arjun Rao,Chennai,Tamil Nadu,212,Desk Lamp,Home,Philips,3,1800,10,5,5400,540.0,243.0,5103.0,Credit Card,Returned,304,Deepak Sharma,403,2026-07-28
+5005,2026-01-24,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,202,Smartphone,Electronics,Samsung,3,32000,20,12,96000,19200.0,9216.0,86016.0,UPI,Shipped,303,Chaitanya Reddy,401,
+5006,2026-04-07,1002,Diya Reddy,Bengaluru,Karnataka,209,Water Bottle,Home,Milton,5,900,10,18,4500,450.0,729.0,4779.0,Credit Card,Shipped,303,Chaitanya Reddy,401,
+5007,2026-06-19,1004,Meera Nair,Kochi,Kerala,205,Study Table,Furniture,Ikea,2,12000,0,12,24000,0.0,2880.0,26880.0,Debit Card,Delivered,301,Anil Kumar,403,2026-06-22
+5008,2026-04-05,1006,Ananya Iyer,Coimbatore,Tamil Nadu,204,Office Chair,Furniture,Featherlite,3,8500,0,18,25500,0.0,4590.0,30090.0,Credit Card,Delivered,306,Farhan Ali,402,2026-04-08
+5009,2026-04-29,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,205,Study Table,Furniture,Ikea,5,12000,5,18,60000,3000.0,10260.0,67260.0,Debit Card,Processing,306,Farhan Ali,401,
+5010,2026-02-28,1014,Kavya Menon,Mysuru,Karnataka,201,Laptop,Electronics,Dell,4,62000,10,5,248000,24800.0,11160.0,234360.0,Credit Card,Cancelled,303,Chaitanya Reddy,403,
+5011,2026-02-24,1011,Rahul Verma,Noida,Uttar Pradesh,208,Smart Watch,Electronics,Boat,4,5500,5,12,22000,1100.0,2508.0,23408.0,Credit Card,Delivered,304,Deepak Sharma,403,2026-03-03
+5012,2026-05-30,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,210,Mixer Grinder,Home Appliances,Prestige,3,4200,5,5,12600,630.0,598.5,12568.5,Cash on Delivery,Delivered,304,Deepak Sharma,401,2026-06-07
+5013,2026-01-29,1003,Arjun Rao,Chennai,Tamil Nadu,211,Keyboard,Electronics,Logitech,4,2300,20,5,9200,1840.0,368.0,7728.0,Net Banking,Delivered,302,Bhavana Rao,404,2026-02-04
+5014,2026-03-06,1009,Karthik Reddy,Warangal,Telangana,201,Laptop,Electronics,Dell,1,62000,20,12,62000,12400.0,5952.0,55552.0,Debit Card,Delivered,306,Farhan Ali,404,2026-03-09
+5015,2026-04-27,1001,Aarav Sharma,Hyderabad,Telangana,212,Desk Lamp,Home,Philips,3,1800,20,5,5400,1080.0,216.0,4536.0,Cash on Delivery,Cancelled,306,Farhan Ali,403,
+5016,2026-06-13,1009,Karthik Reddy,Warangal,Telangana,210,Mixer Grinder,Home Appliances,Prestige,2,4200,10,5,8400,840.0,378.0,7938.0,Cash on Delivery,Returned,302,Bhavana Rao,401,2026-06-19
+5017,2026-03-24,1008,Sneha Patel,Ahmedabad,Gujarat,201,Laptop,Electronics,Dell,3,62000,10,5,186000,18600.0,8370.0,175770.0,UPI,Delivered,301,Anil Kumar,401,2026-03-26
+5018,2026-07-07,1008,Sneha Patel,Ahmedabad,Gujarat,202,Smartphone,Electronics,Samsung,2,32000,5,18,64000,3200.0,10944.0,71744.0,Net Banking,Returned,305,Esha Nair,402,2026-07-11
+5019,2026-05-16,1014,Kavya Menon,Mysuru,Karnataka,210,Mixer Grinder,Home Appliances,Prestige,2,4200,20,18,8400,1680.0,1209.6,7929.6,Credit Card,Shipped,304,Deepak Sharma,404,
+5020,2026-06-21,1011,Rahul Verma,Noida,Uttar Pradesh,206,Running Shoes,Footwear,Nike,5,6500,15,5,32500,4875.0,1381.25,29006.25,Credit Card,Delivered,304,Deepak Sharma,403,2026-06-23
+5021,2026-05-31,1009,Karthik Reddy,Warangal,Telangana,204,Office Chair,Furniture,Featherlite,2,8500,0,5,17000,0.0,850.0,17850.0,UPI,Delivered,305,Esha Nair,401,2026-06-08
+5022,2026-03-26,1002,Diya Reddy,Bengaluru,Karnataka,209,Water Bottle,Home,Milton,3,900,15,5,2700,405.0,114.75,2409.75,Cash on Delivery,Delivered,302,Bhavana Rao,404,2026-03-29
+5023,2026-07-20,1008,Sneha Patel,Ahmedabad,Gujarat,207,Backpack,Accessories,Wildcraft,1,2800,0,18,2800,0.0,504.0,3304.0,Net Banking,Delivered,302,Bhavana Rao,404,2026-07-25
+5024,2026-07-06,1001,Aarav Sharma,Hyderabad,Telangana,211,Keyboard,Electronics,Logitech,1,2300,0,12,2300,0.0,276.0,2576.0,Debit Card,Processing,306,Farhan Ali,401,
+5025,2026-03-05,1004,Meera Nair,Kochi,Kerala,204,Office Chair,Furniture,Featherlite,4,8500,5,12,34000,1700.0,3876.0,36176.0,Credit Card,Delivered,305,Esha Nair,402,2026-03-13
+5026,2026-01-20,1008,Sneha Patel,Ahmedabad,Gujarat,209,Water Bottle,Home,Milton,1,900,20,5,900,180.0,36.0,756.0,UPI,Cancelled,301,Anil Kumar,402,
+5027,2026-02-12,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,208,Smart Watch,Electronics,Boat,2,5500,15,5,11000,1650.0,467.5,9817.5,Credit Card,Delivered,304,Deepak Sharma,404,2026-02-16
+5028,2026-07-20,1013,Sai Teja,Vijayawada,Andhra Pradesh,208,Smart Watch,Electronics,Boat,4,5500,20,18,22000,4400.0,3168.0,20768.0,Net Banking,Delivered,303,Chaitanya Reddy,403,2026-07-23
+5029,2026-01-15,1010,Priya Das,Kolkata,West Bengal,212,Desk Lamp,Home,Philips,1,1800,10,5,1800,180.0,81.0,1701.0,UPI,Shipped,305,Esha Nair,402,
+5030,2026-01-15,1009,Karthik Reddy,Warangal,Telangana,202,Smartphone,Electronics,Samsung,1,32000,20,5,32000,6400.0,1280.0,26880.0,Credit Card,Delivered,302,Bhavana Rao,402,2026-01-21
+5031,2026-06-02,1001,Aarav Sharma,Hyderabad,Telangana,210,Mixer Grinder,Home Appliances,Prestige,4,4200,20,18,16800,3360.0,2419.2,15859.2,Cash on Delivery,Delivered,301,Anil Kumar,403,2026-06-05
+5032,2026-06-21,1012,Nisha Gupta,Jaipur,Rajasthan,206,Running Shoes,Footwear,Nike,3,6500,15,5,19500,2925.0,828.75,17403.75,Debit Card,Delivered,302,Bhavana Rao,401,2026-06-23
+5033,2026-04-28,1010,Priya Das,Kolkata,West Bengal,210,Mixer Grinder,Home Appliances,Prestige,1,4200,20,5,4200,840.0,168.0,3528.0,Cash on Delivery,Delivered,301,Anil Kumar,403,2026-04-30
+5034,2026-03-04,1006,Ananya Iyer,Coimbatore,Tamil Nadu,205,Study Table,Furniture,Ikea,4,12000,20,18,48000,9600.0,6912.0,45312.0,Debit Card,Shipped,302,Bhavana Rao,401,
+5035,2026-06-20,1014,Kavya Menon,Mysuru,Karnataka,209,Water Bottle,Home,Milton,1,900,5,12,900,45.0,102.6,957.6,UPI,Cancelled,303,Chaitanya Reddy,402,
+5036,2026-03-11,1005,Vikram Singh,Pune,Maharashtra,210,Mixer Grinder,Home Appliances,Prestige,3,4200,5,18,12600,630.0,2154.6,14124.6,Debit Card,Delivered,302,Bhavana Rao,403,2026-03-19
+5037,2026-01-14,1002,Diya Reddy,Bengaluru,Karnataka,211,Keyboard,Electronics,Logitech,3,2300,0,5,6900,0.0,345.0,7245.0,Debit Card,Processing,304,Deepak Sharma,403,
+5038,2026-02-11,1012,Nisha Gupta,Jaipur,Rajasthan,208,Smart Watch,Electronics,Boat,4,5500,20,5,22000,4400.0,880.0,18480.0,UPI,Delivered,305,Esha Nair,402,2026-02-17
+5039,2026-01-10,1014,Kavya Menon,Mysuru,Karnataka,206,Running Shoes,Footwear,Nike,5,6500,5,12,32500,1625.0,3705.0,34580.0,Credit Card,Delivered,305,Esha Nair,403,2026-01-18
+5040,2026-01-11,1015,Aditya Joshi,Mumbai,Maharashtra,206,Running Shoes,Footwear,Nike,2,6500,0,12,13000,0.0,1560.0,14560.0,Cash on Delivery,Cancelled,302,Bhavana Rao,404,
+5041,2026-06-08,1012,Nisha Gupta,Jaipur,Rajasthan,203,Headphones,Electronics,Sony,2,4500,5,12,9000,450.0,1026.0,9576.0,UPI,Delivered,302,Bhavana Rao,403,2026-06-16
+5042,2026-04-16,1013,Sai Teja,Vijayawada,Andhra Pradesh,211,Keyboard,Electronics,Logitech,2,2300,10,5,4600,460.0,207.0,4347.0,UPI,Delivered,306,Farhan Ali,401,2026-04-24
+5043,2026-05-01,1004,Meera Nair,Kochi,Kerala,204,Office Chair,Furniture,Featherlite,3,8500,10,5,25500,2550.0,1147.5,24097.5,Credit Card,Delivered,304,Deepak Sharma,402,2026-05-06
+5044,2026-03-26,1005,Vikram Singh,Pune,Maharashtra,202,Smartphone,Electronics,Samsung,3,32000,20,12,96000,19200.0,9216.0,86016.0,Cash on Delivery,Delivered,303,Chaitanya Reddy,401,2026-03-28
+5045,2026-03-08,1003,Arjun Rao,Chennai,Tamil Nadu,210,Mixer Grinder,Home Appliances,Prestige,1,4200,0,18,4200,0.0,756.0,4956.0,Net Banking,Delivered,303,Chaitanya Reddy,403,2026-03-13
+5046,2026-06-05,1009,Karthik Reddy,Warangal,Telangana,202,Smartphone,Electronics,Samsung,5,32000,5,12,160000,8000.0,18240.0,170240.0,UPI,Shipped,304,Deepak Sharma,401,
+5047,2026-05-14,1015,Aditya Joshi,Mumbai,Maharashtra,209,Water Bottle,Home,Milton,2,900,10,12,1800,180.0,194.4,1814.4,UPI,Returned,306,Farhan Ali,403,2026-05-20
+5048,2026-03-22,1011,Rahul Verma,Noida,Uttar Pradesh,202,Smartphone,Electronics,Samsung,3,32000,20,12,96000,19200.0,9216.0,86016.0,Net Banking,Delivered,306,Farhan Ali,403,2026-03-28
+5049,2026-02-02,1004,Meera Nair,Kochi,Kerala,207,Backpack,Accessories,Wildcraft,4,2800,5,18,11200,560.0,1915.2,12555.2,Cash on Delivery,Delivered,306,Farhan Ali,401,2026-02-06
+5050,2026-03-15,1004,Meera Nair,Kochi,Kerala,207,Backpack,Accessories,Wildcraft,5,2800,10,12,14000,1400.0,1512.0,14112.0,Net Banking,Delivered,305,Esha Nair,402,2026-03-21
+5051,2026-05-02,1013,Sai Teja,Vijayawada,Andhra Pradesh,212,Desk Lamp,Home,Philips,1,1800,10,18,1800,180.0,291.6,1911.6,Cash on Delivery,Delivered,302,Bhavana Rao,402,2026-05-09
+5052,2026-03-21,1004,Meera Nair,Kochi,Kerala,204,Office Chair,Furniture,Featherlite,1,8500,0,5,8500,0.0,425.0,8925.0,Net Banking,Shipped,302,Bhavana Rao,401,
+5053,2026-04-27,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,211,Keyboard,Electronics,Logitech,2,2300,15,12,4600,690.0,469.2,4379.2,Net Banking,Delivered,305,Esha Nair,401,2026-05-05
+5054,2026-07-17,1015,Aditya Joshi,Mumbai,Maharashtra,202,Smartphone,Electronics,Samsung,2,32000,5,18,64000,3200.0,10944.0,71744.0,Cash on Delivery,Delivered,304,Deepak Sharma,402,2026-07-25
+5055,2026-02-01,1008,Sneha Patel,Ahmedabad,Gujarat,203,Headphones,Electronics,Sony,5,4500,20,18,22500,4500.0,3240.0,21240.0,Debit Card,Returned,304,Deepak Sharma,404,2026-02-07
+5056,2026-07-28,1012,Nisha Gupta,Jaipur,Rajasthan,209,Water Bottle,Home,Milton,5,900,15,5,4500,675.0,191.25,4016.25,Net Banking,Delivered,304,Deepak Sharma,402,2026-08-05
+5057,2026-06-13,1005,Vikram Singh,Pune,Maharashtra,209,Water Bottle,Home,Milton,2,900,10,12,1800,180.0,194.4,1814.4,UPI,Shipped,304,Deepak Sharma,402,
+5058,2026-03-11,1006,Ananya Iyer,Coimbatore,Tamil Nadu,206,Running Shoes,Footwear,Nike,1,6500,5,5,6500,325.0,308.75,6483.75,Credit Card,Delivered,305,Esha Nair,402,2026-03-18
+5059,2026-02-24,1002,Diya Reddy,Bengaluru,Karnataka,207,Backpack,Accessories,Wildcraft,3,2800,20,12,8400,1680.0,806.4,7526.4,Net Banking,Delivered,304,Deepak Sharma,404,2026-03-01
+5060,2026-07-17,1010,Priya Das,Kolkata,West Bengal,212,Desk Lamp,Home,Philips,5,1800,15,12,9000,1350.0,918.0,8568.0,UPI,Returned,301,Anil Kumar,403,2026-07-25
+5061,2026-04-10,1014,Kavya Menon,Mysuru,Karnataka,207,Backpack,Accessories,Wildcraft,5,2800,20,5,14000,2800.0,560.0,11760.0,Net Banking,Delivered,305,Esha Nair,404,2026-04-15
+5062,2026-01-08,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,206,Running Shoes,Footwear,Nike,4,6500,5,12,26000,1300.0,2964.0,27664.0,Credit Card,Returned,306,Farhan Ali,401,2026-01-13
+5063,2026-06-01,1010,Priya Das,Kolkata,West Bengal,211,Keyboard,Electronics,Logitech,1,2300,15,5,2300,345.0,97.75,2052.75,Net Banking,Delivered,301,Anil Kumar,403,2026-06-06
+5064,2026-03-25,1004,Meera Nair,Kochi,Kerala,208,Smart Watch,Electronics,Boat,3,5500,15,12,16500,2475.0,1683.0,15708.0,Net Banking,Delivered,303,Chaitanya Reddy,401,2026-03-30
+5065,2026-01-05,1012,Nisha Gupta,Jaipur,Rajasthan,209,Water Bottle,Home,Milton,3,900,5,18,2700,135.0,461.7,3026.7,UPI,Processing,301,Anil Kumar,401,
+5066,2026-07-13,1001,Aarav Sharma,Hyderabad,Telangana,204,Office Chair,Furniture,Featherlite,1,8500,20,5,8500,1700.0,340.0,7140.0,Credit Card,Delivered,302,Bhavana Rao,401,2026-07-19
+5067,2026-02-25,1008,Sneha Patel,Ahmedabad,Gujarat,212,Desk Lamp,Home,Philips,3,1800,5,18,5400,270.0,923.4,6053.4,Cash on Delivery,Returned,303,Chaitanya Reddy,401,2026-03-05
+5068,2026-07-29,1003,Arjun Rao,Chennai,Tamil Nadu,205,Study Table,Furniture,Ikea,5,12000,0,12,60000,0.0,7200.0,67200.0,Cash on Delivery,Shipped,301,Anil Kumar,404,
+5069,2026-04-12,1012,Nisha Gupta,Jaipur,Rajasthan,204,Office Chair,Furniture,Featherlite,5,8500,5,5,42500,2125.0,2018.75,42393.75,Debit Card,Cancelled,301,Anil Kumar,401,
+5070,2026-07-23,1010,Priya Das,Kolkata,West Bengal,201,Laptop,Electronics,Dell,5,62000,15,18,310000,46500.0,47430.0,310930.0,Debit Card,Delivered,303,Chaitanya Reddy,403,2026-07-25
+5071,2026-04-18,1014,Kavya Menon,Mysuru,Karnataka,208,Smart Watch,Electronics,Boat,4,5500,10,18,22000,2200.0,3564.0,23364.0,Net Banking,Shipped,301,Anil Kumar,404,
+5072,2026-02-15,1012,Nisha Gupta,Jaipur,Rajasthan,209,Water Bottle,Home,Milton,3,900,20,18,2700,540.0,388.8,2548.8,Net Banking,Delivered,306,Farhan Ali,403,2026-02-19
+5073,2026-03-04,1014,Kavya Menon,Mysuru,Karnataka,202,Smartphone,Electronics,Samsung,4,32000,5,12,128000,6400.0,14592.0,136192.0,Cash on Delivery,Shipped,303,Chaitanya Reddy,404,
+5074,2026-03-28,1001,Aarav Sharma,Hyderabad,Telangana,208,Smart Watch,Electronics,Boat,2,5500,15,5,11000,1650.0,467.5,9817.5,Debit Card,Processing,303,Chaitanya Reddy,403,
+5075,2026-03-13,1015,Aditya Joshi,Mumbai,Maharashtra,210,Mixer Grinder,Home Appliances,Prestige,3,4200,20,5,12600,2520.0,504.0,10584.0,Cash on Delivery,Returned,306,Farhan Ali,401,2026-03-16
+5076,2026-07-04,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,208,Smart Watch,Electronics,Boat,2,5500,15,18,11000,1650.0,1683.0,11033.0,Net Banking,Delivered,305,Esha Nair,401,2026-07-06
+5077,2026-03-17,1004,Meera Nair,Kochi,Kerala,207,Backpack,Accessories,Wildcraft,2,2800,10,18,5600,560.0,907.2,5947.2,Cash on Delivery,Delivered,306,Farhan Ali,403,2026-03-22
+5078,2026-07-10,1009,Karthik Reddy,Warangal,Telangana,206,Running Shoes,Footwear,Nike,4,6500,10,12,26000,2600.0,2808.0,26208.0,Debit Card,Delivered,303,Chaitanya Reddy,402,2026-07-14
+5079,2026-01-31,1012,Nisha Gupta,Jaipur,Rajasthan,209,Water Bottle,Home,Milton,2,900,5,5,1800,90.0,85.5,1795.5,Net Banking,Delivered,306,Farhan Ali,403,2026-02-02
+5080,2026-02-19,1005,Vikram Singh,Pune,Maharashtra,204,Office Chair,Furniture,Featherlite,2,8500,10,5,17000,1700.0,765.0,16065.0,Cash on Delivery,Delivered,303,Chaitanya Reddy,401,2026-02-21
+5081,2026-05-22,1005,Vikram Singh,Pune,Maharashtra,212,Desk Lamp,Home,Philips,4,1800,0,5,7200,0.0,360.0,7560.0,Cash on Delivery,Delivered,302,Bhavana Rao,404,2026-05-27
+5082,2026-03-29,1003,Arjun Rao,Chennai,Tamil Nadu,201,Laptop,Electronics,Dell,4,62000,0,5,248000,0.0,12400.0,260400.0,Net Banking,Delivered,303,Chaitanya Reddy,401,2026-04-01
+5083,2026-02-08,1013,Sai Teja,Vijayawada,Andhra Pradesh,210,Mixer Grinder,Home Appliances,Prestige,1,4200,5,5,4200,210.0,199.5,4189.5,Cash on Delivery,Processing,303,Chaitanya Reddy,402,
+5084,2026-07-18,1009,Karthik Reddy,Warangal,Telangana,207,Backpack,Accessories,Wildcraft,4,2800,10,18,11200,1120.0,1814.4,11894.4,Net Banking,Delivered,304,Deepak Sharma,401,2026-07-24
+5085,2026-07-09,1002,Diya Reddy,Bengaluru,Karnataka,204,Office Chair,Furniture,Featherlite,2,8500,10,18,17000,1700.0,2754.0,18054.0,UPI,Delivered,306,Farhan Ali,402,2026-07-15
+5086,2026-01-20,1003,Arjun Rao,Chennai,Tamil Nadu,201,Laptop,Electronics,Dell,4,62000,20,12,248000,49600.0,23808.0,222208.0,Debit Card,Delivered,304,Deepak Sharma,403,2026-01-27
+5087,2026-03-14,1012,Nisha Gupta,Jaipur,Rajasthan,208,Smart Watch,Electronics,Boat,2,5500,10,18,11000,1100.0,1782.0,11682.0,Cash on Delivery,Shipped,301,Anil Kumar,402,
+5088,2026-04-19,1002,Diya Reddy,Bengaluru,Karnataka,209,Water Bottle,Home,Milton,2,900,10,5,1800,180.0,81.0,1701.0,UPI,Delivered,302,Bhavana Rao,403,2026-04-25
+5089,2026-07-11,1014,Kavya Menon,Mysuru,Karnataka,210,Mixer Grinder,Home Appliances,Prestige,4,4200,0,12,16800,0.0,2016.0,18816.0,Debit Card,Shipped,303,Chaitanya Reddy,403,
+5090,2026-05-09,1009,Karthik Reddy,Warangal,Telangana,208,Smart Watch,Electronics,Boat,1,5500,20,5,5500,1100.0,220.0,4620.0,Net Banking,Processing,304,Deepak Sharma,403,
+5091,2026-01-07,1002,Diya Reddy,Bengaluru,Karnataka,204,Office Chair,Furniture,Featherlite,5,8500,20,5,42500,8500.0,1700.0,35700.0,Debit Card,Shipped,306,Farhan Ali,402,
+5092,2026-05-01,1009,Karthik Reddy,Warangal,Telangana,211,Keyboard,Electronics,Logitech,3,2300,5,18,6900,345.0,1179.9,7734.9,Net Banking,Shipped,304,Deepak Sharma,404,
+5093,2026-01-24,1008,Sneha Patel,Ahmedabad,Gujarat,206,Running Shoes,Footwear,Nike,3,6500,10,18,19500,1950.0,3159.0,20709.0,UPI,Cancelled,304,Deepak Sharma,403,
+5094,2026-04-16,1012,Nisha Gupta,Jaipur,Rajasthan,208,Smart Watch,Electronics,Boat,4,5500,20,5,22000,4400.0,880.0,18480.0,Net Banking,Delivered,303,Chaitanya Reddy,403,2026-04-20
+5095,2026-01-30,1013,Sai Teja,Vijayawada,Andhra Pradesh,207,Backpack,Accessories,Wildcraft,1,2800,20,12,2800,560.0,268.8,2508.8,Net Banking,Delivered,305,Esha Nair,403,2026-02-05
+5096,2026-07-13,1008,Sneha Patel,Ahmedabad,Gujarat,211,Keyboard,Electronics,Logitech,1,2300,5,12,2300,115.0,262.2,2447.2,Cash on Delivery,Delivered,304,Deepak Sharma,403,2026-07-18
+5097,2026-06-28,1008,Sneha Patel,Ahmedabad,Gujarat,202,Smartphone,Electronics,Samsung,5,32000,5,18,160000,8000.0,27360.0,179360.0,Credit Card,Delivered,301,Anil Kumar,401,2026-07-04
+5098,2026-04-15,1002,Diya Reddy,Bengaluru,Karnataka,204,Office Chair,Furniture,Featherlite,4,8500,0,18,34000,0.0,6120.0,40120.0,Credit Card,Delivered,301,Anil Kumar,403,2026-04-21
+5099,2026-06-30,1005,Vikram Singh,Pune,Maharashtra,207,Backpack,Accessories,Wildcraft,4,2800,5,12,11200,560.0,1276.8,11916.8,Cash on Delivery,Delivered,304,Deepak Sharma,402,2026-07-06
+5100,2026-05-11,1012,Nisha Gupta,Jaipur,Rajasthan,203,Headphones,Electronics,Sony,3,4500,15,12,13500,2025.0,1377.0,12852.0,Cash on Delivery,Delivered,301,Anil Kumar,401,2026-05-15
+5101,2026-07-05,1005,Vikram Singh,Pune,Maharashtra,210,Mixer Grinder,Home Appliances,Prestige,4,4200,5,12,16800,840.0,1915.2,17875.2,Cash on Delivery,Delivered,305,Esha Nair,403,2026-07-11
+5102,2026-07-15,1009,Karthik Reddy,Warangal,Telangana,207,Backpack,Accessories,Wildcraft,3,2800,5,18,8400,420.0,1436.4,9416.4,Credit Card,Shipped,304,Deepak Sharma,402,
+5103,2026-07-18,1007,Rohan Kumar,Visakhapatnam,Andhra Pradesh,201,Laptop,Electronics,Dell,4,62000,15,12,248000,37200.0,25296.0,236096.0,Credit Card,Delivered,303,Chaitanya Reddy,401,2026-07-21
+5104,2026-05-09,1010,Priya Das,Kolkata,West Bengal,206,Running Shoes,Footwear,Nike,4,6500,0,18,26000,0.0,4680.0,30680.0,Net Banking,Delivered,301,Anil Kumar,402,2026-05-14
+5105,2026-06-17,1003,Arjun Rao,Chennai,Tamil Nadu,202,Smartphone,Electronics,Samsung,3,32000,10,18,96000,9600.0,15552.0,101952.0,Net Banking,Shipped,304,Deepak Sharma,403,
+5106,2026-06-22,1014,Kavya Menon,Mysuru,Karnataka,209,Water Bottle,Home,Milton,3,900,15,18,2700,405.0,413.1,2708.1,UPI,Shipped,304,Deepak Sharma,402,
+5107,2026-06-11,1011,Rahul Verma,Noida,Uttar Pradesh,205,Study Table,Furniture,Ikea,1,12000,15,5,12000,1800.0,510.0,10710.0,UPI,Delivered,302,Bhavana Rao,403,2026-06-13
+5108,2026-01-12,1006,Ananya Iyer,Coimbatore,Tamil Nadu,201,Laptop,Electronics,Dell,3,62000,10,12,186000,18600.0,20088.0,187488.0,Credit Card,Delivered,303,Chaitanya Reddy,404,2026-01-18
+5109,2026-06-24,1013,Sai Teja,Vijayawada,Andhra Pradesh,203,Headphones,Electronics,Sony,2,4500,0,18,9000,0.0,1620.0,10620.0,Net Banking,Shipped,302,Bhavana Rao,402,
+5110,2026-05-08,1015,Aditya Joshi,Mumbai,Maharashtra,210,Mixer Grinder,Home Appliances,Prestige,2,4200,15,18,8400,1260.0,1285.2,8425.2,Debit Card,Delivered,302,Bhavana Rao,401,2026-05-16
+5111,2026-04-30,1015,Aditya Joshi,Mumbai,Maharashtra,205,Study Table,Furniture,Ikea,5,12000,5,5,60000,3000.0,2850.0,59850.0,Net Banking,Returned,306,Farhan Ali,403,2026-05-07
+5112,2026-04-19,1012,Nisha Gupta,Jaipur,Rajasthan,205,Study Table,Furniture,Ikea,3,12000,5,12,36000,1800.0,4104.0,38304.0,Net Banking,Delivered,304,Deepak Sharma,404,2026-04-25
+5113,2026-04-02,1010,Priya Das,Kolkata,West Bengal,205,Study Table,Furniture,Ikea,3,12000,0,18,36000,0.0,6480.0,42480.0,Net Banking,Delivered,306,Farhan Ali,401,2026-04-08
+5114,2026-07-10,1008,Sneha Patel,Ahmedabad,Gujarat,205,Study Table,Furniture,Ikea,5,12000,10,5,60000,6000.0,2700.0,56700.0,Credit Card,Shipped,302,Bhavana Rao,402,
+5115,2026-06-10,1002,Diya Reddy,Bengaluru,Karnataka,211,Keyboard,Electronics,Logitech,1,2300,10,12,2300,230.0,248.4,2318.4,UPI,Shipped,306,Farhan Ali,402,
+5116,2026-01-24,1015,Aditya Joshi,Mumbai,Maharashtra,205,Study Table,Furniture,Ikea,4,12000,5,5,48000,2400.0,2280.0,47880.0,Credit Card,Processing,303,Chaitanya Reddy,403,
+5117,2026-05-16,1009,Karthik Reddy,Warangal,Telangana,205,Study Table,Furniture,Ikea,3,12000,15,12,36000,5400.0,3672.0,34272.0,Debit Card,Processing,302,Bhavana Rao,404,
+5118,2026-01-20,1003,Arjun Rao,Chennai,Tamil Nadu,204,Office Chair,Furniture,Featherlite,4,8500,20,12,34000,6800.0,3264.0,30464.0,UPI,Processing,306,Farhan Ali,401,
+5119,2026-03-09,1009,Karthik Reddy,Warangal,Telangana,202,Smartphone,Electronics,Samsung,3,32000,10,18,96000,9600.0,15552.0,101952.0,Net Banking,Processing,304,Deepak Sharma,403,
+5120,2026-01-28,1011,Rahul Verma,Noida,Uttar Pradesh,204,Office Chair,Furniture,Featherlite,1,8500,20,18,8500,1700.0,1224.0,8024.0,Debit Card,Cancelled,304,Deepak Sharma,402,

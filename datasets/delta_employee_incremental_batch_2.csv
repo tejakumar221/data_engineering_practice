@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,full_name,gender,date_of_birth,date_of_joining,department_id,department_name,job_title,employment_type,work_location,city,state,email_id,phone_number,base_salary,bonus_percent,performance_rating,manager_id,project_id,experience_years,active_status,last_updated_date
+1005,Aditya,Joshi,Aditya Joshi,Male,1993-03-18,2020-05-10,20,Development,Full Stack Developer,Full Time,Hybrid,Pune,Maharashtra,aditya.joshi1005@example.com,9345678005,99000,15,4.5,502,702,6.3,Active,2026-09-06
+1030,Meera,Nair,Meera Nair,Female,1990-07-09,2019-09-01,10,Data Engineering,Senior Data Engineer,Full Time,Remote,Kochi,Kerala,meera.nair1030@example.com,9345678030,118000,20,5.0,501,701,7.9,Active,2026-09-06
+1075,Rahul,Verma,Rahul Verma,Male,1992-12-21,2021-01-15,40,Analytics,BI Analyst,Full Time,Office,Noida,Uttar Pradesh,rahul.verma1075@example.com,9345678075,92000,12,4.0,504,704,5.6,Active,2026-09-06
+1110,Ananya,Iyer,Ananya Iyer,Female,1996-04-16,2022-08-08,30,Testing,QA Engineer,Full Time,Hybrid,Bengaluru,Karnataka,ananya.iyer1110@example.com,9345678110,78000,10,4.0,503,703,4.1,Active,2026-09-06
+1126,Nikhil,Rao,Nikhil Rao,Male,1998-06-11,2026-09-06,10,Data Engineering,ETL Developer,Full Time,Hybrid,Hyderabad,Telangana,nikhil.rao1126@example.com,9456781126,67000,8,3.5,501,705,0.0,Active,2026-09-06
+1127,Ishita,Gupta,Ishita Gupta,Female,1997-09-25,2026-09-06,40,Analytics,Reporting Analyst,Full Time,Office,Jaipur,Rajasthan,ishita.gupta1127@example.com,9456781127,63000,8,4.0,504,706,0.0,Active,2026-09-06
+1128,Harsha,Naidu,Harsha Naidu,Male,1998-01-29,2026-09-06,60,Operations,Process Executive,Full Time,Office,Vijayawada,Andhra Pradesh,harsha.naidu1128@example.com,9456781128,59000,5,3.5,506,707,0.0,Active,2026-09-06
+1129,Bhavana,Reddy,Bhavana Reddy,Female,1997-11-14,2026-09-06,20,Development,Software Developer,Full Time,Remote,Chennai,Tamil Nadu,bhavana.reddy1129@example.com,9456781129,72000,10,4.0,502,708,0.0,Active,2026-09-06
+1015,Vikram,Singh,Vikram Singh,Male,1991-02-02,2020-03-03,60,Operations,Operations Analyst,Full Time,Office,Mumbai,Maharashtra,vikram.singh1015@example.com,9345678015,81000,10,3.5,506,707,6.5,Active,2026-09-05
+1040,Kavya,Menon,Kavya Menon,Female,1994-10-10,2021-06-06,30,Testing,Test Engineer,Full Time,Hybrid,Kochi,Kerala,kavya.menon1040@example.com,9345678040,74000,8,4.0,503,703,5.2,Active,2026-09-05

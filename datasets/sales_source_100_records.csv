@@ -1,0 +1,101 @@
+sale_id,sale_date,product_id,product_name,category,brand,customer_id,customer_name,customer_gender,customer_city,customer_state,store_id,store_name,store_city,store_state,salesperson_id,salesperson_name,quantity,unit_price,discount_percent,tax_percent,total_amount,profit,payment_method
+10001,2026-03-23,102,Galaxy S25,Electronics,Samsung,501,Arjun Reddy,Male,Hyderabad,Telangana,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,2,64600,0,18,152456.0,17200.0,Net Banking
+10002,2026-01-12,110,Mixer Grinder,Home Appliances,Preethi,514,Ishita Mehta,Female,Delhi,Delhi,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,1,6840,5,18,7667.64,1498.0,Net Banking
+10003,2026-03-19,101,Laptop Pro 14,Electronics,Dell,518,Lakshmi Menon,Female,Kochi,Kerala,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,2,72000,10,18,152928.0,11600.0,UPI
+10004,2026-04-08,103,iPhone 17,Electronics,Apple,514,Ishita Mehta,Female,Delhi,Delhi,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,2,84550,10,18,179584.2,190.0,UPI
+10005,2026-01-12,107,Office Chair,Furniture,Green Soul,504,Priya Nair,Female,Bengaluru,Karnataka,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,3,13780,15,12,39355.68,3639.0,Net Banking
+10006,2026-01-16,107,Office Chair,Furniture,Green Soul,503,Rahul Sharma,Male,Bengaluru,Karnataka,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,3,15220,5,12,48582.24,11877.0,UPI
+10007,2026-01-06,111,Running Shoes,Footwear,Nike,508,Ananya Joshi,Female,Pune,Maharashtra,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,2,8550,15,12,16279.2,2135.0,Debit Card
+10008,2026-02-28,111,Running Shoes,Footwear,Nike,512,Pooja Sen,Female,Kolkata,West Bengal,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,3,8550,10,12,25855.2,4485.0,UPI
+10009,2026-03-19,111,Running Shoes,Footwear,Nike,506,Divya Iyer,Female,Chennai,Tamil Nadu,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,9000,15,12,17136.0,2900.0,Debit Card
+10010,2026-04-29,111,Running Shoes,Footwear,Nike,518,Lakshmi Menon,Female,Kochi,Kerala,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,1,8550,0,12,9576.0,2350.0,Debit Card
+10011,2026-02-21,105,Sony Headphones,Accessories,Sony,503,Rahul Sharma,Male,Bengaluru,Karnataka,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,2,13120,15,18,26318.72,4304.0,Cash
+10012,2026-04-24,111,Running Shoes,Footwear,Nike,515,Harish Patel,Male,Ahmedabad,Gujarat,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,2,8550,10,12,17236.8,2990.0,Net Banking
+10013,2026-02-24,110,Mixer Grinder,Home Appliances,Preethi,513,Naveen Gupta,Male,Delhi,Delhi,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,2,7560,15,18,15165.36,2852.0,UPI
+10014,2026-04-07,101,Laptop Pro 14,Electronics,Dell,504,Priya Nair,Female,Bengaluru,Karnataka,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,4,75600,0,18,356832.0,66400.0,Cash
+10015,2026-02-18,110,Mixer Grinder,Home Appliances,Preethi,515,Harish Patel,Male,Ahmedabad,Gujarat,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,1,7560,0,18,8920.8,2560.0,Net Banking
+10016,2026-04-07,105,Sony Headphones,Accessories,Sony,511,Sandeep Das,Male,Kolkata,West Bengal,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,4,11880,15,18,47662.56,4392.0,UPI
+10017,2026-04-03,112,Backpack,Bags,Wildcraft,509,Rohit Verma,Male,Mumbai,Maharashtra,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,1,4410,10,12,4445.28,1169.0,Net Banking
+10018,2026-03-19,104,NoiseFit Watch,Wearables,Noise,505,Kiran Kumar,Male,Chennai,Tamil Nadu,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,1,6820,10,18,7242.84,1938.0,Cash
+10019,2026-01-03,102,Galaxy S25,Electronics,Samsung,512,Pooja Sen,Female,Kolkata,West Bengal,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,1,64600,0,18,76228.0,8600.0,UPI
+10020,2026-04-04,108,Study Desk,Furniture,IKEA,503,Rahul Sharma,Male,Bengaluru,Karnataka,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,18900,15,12,35985.6,5130.0,Net Banking
+10021,2026-01-22,105,Sony Headphones,Accessories,Sony,517,Ajay Menon,Male,Kochi,Kerala,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,13120,5,18,29415.04,6928.0,Debit Card
+10022,2026-02-21,111,Running Shoes,Footwear,Nike,512,Pooja Sen,Female,Kolkata,West Bengal,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,8550,5,12,9097.2,1922.5,UPI
+10023,2026-02-13,101,Laptop Pro 14,Electronics,Dell,519,Manoj Yadav,Male,Jaipur,Rajasthan,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,68400,0,18,161424.0,18800.0,UPI
+10024,2026-01-30,102,Galaxy S25,Electronics,Samsung,502,Sneha Rao,Female,Hyderabad,Telangana,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,2,68000,15,18,136408.0,3600.0,Credit Card
+10025,2026-03-11,103,iPhone 17,Electronics,Apple,519,Manoj Yadav,Male,Jaipur,Rajasthan,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,89000,15,18,178534.0,-700.0,Credit Card
+10026,2026-01-13,102,Galaxy S25,Electronics,Samsung,514,Ishita Mehta,Female,Delhi,Delhi,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,4,68000,0,18,320960.0,48000.0,UPI
+10027,2026-01-08,107,Office Chair,Furniture,Green Soul,511,Sandeep Das,Male,Kolkata,West Bengal,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,2,13780,15,12,26237.12,2426.0,Credit Card
+10028,2026-02-24,103,iPhone 17,Electronics,Apple,509,Rohit Verma,Male,Mumbai,Maharashtra,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,89000,0,18,105020.0,13000.0,UPI
+10029,2026-03-25,109,Air Fryer,Home Appliances,Philips,501,Arjun Reddy,Male,Hyderabad,Telangana,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,2,11000,15,18,22066.0,3100.0,Cash
+10030,2026-01-28,107,Office Chair,Furniture,Green Soul,502,Sneha Rao,Female,Hyderabad,Telangana,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,1,14500,10,12,14616.0,2550.0,Cash
+10031,2026-02-06,107,Office Chair,Furniture,Green Soul,518,Lakshmi Menon,Female,Kochi,Kerala,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,2,14500,5,12,30856.0,6550.0,UPI
+10032,2026-03-16,112,Backpack,Bags,Wildcraft,518,Lakshmi Menon,Female,Kochi,Kerala,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,1,3990,15,12,3798.48,591.5,Net Banking
+10033,2026-04-28,109,Air Fryer,Home Appliances,Philips,506,Divya Iyer,Female,Chennai,Tamil Nadu,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,2,10450,0,18,24662.0,5300.0,Credit Card
+10034,2026-02-21,102,Galaxy S25,Electronics,Samsung,519,Manoj Yadav,Male,Jaipur,Rajasthan,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,1,68000,10,18,72216.0,5200.0,Debit Card
+10035,2026-01-27,111,Running Shoes,Footwear,Nike,511,Sandeep Das,Male,Kolkata,West Bengal,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,4,8550,10,12,34473.6,5980.0,Cash
+10036,2026-02-10,102,Galaxy S25,Electronics,Samsung,501,Arjun Reddy,Male,Hyderabad,Telangana,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,71400,5,18,80039.4,11830.0,Net Banking
+10037,2026-02-03,103,iPhone 17,Electronics,Apple,512,Pooja Sen,Female,Kolkata,West Bengal,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,3,89000,5,18,299307.0,25650.0,Cash
+10038,2026-04-17,109,Air Fryer,Home Appliances,Philips,510,Meera Shah,Female,Mumbai,Maharashtra,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,3,11550,0,18,40887.0,11250.0,Credit Card
+10039,2026-02-03,102,Galaxy S25,Electronics,Samsung,504,Priya Nair,Female,Bengaluru,Karnataka,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,3,68000,5,18,228684.0,25800.0,Debit Card
+10040,2026-01-27,111,Running Shoes,Footwear,Nike,509,Rohit Verma,Male,Mumbai,Maharashtra,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,3,8550,0,12,28728.0,7050.0,Cash
+10041,2026-04-17,105,Sony Headphones,Accessories,Sony,502,Sneha Rao,Female,Hyderabad,Telangana,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,2,13120,10,18,27866.88,5616.0,Credit Card
+10042,2026-04-05,108,Study Desk,Furniture,IKEA,518,Lakshmi Menon,Female,Kochi,Kerala,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,17100,5,12,18194.4,2745.0,Net Banking
+10043,2026-01-05,106,Logitech Keyboard,Accessories,Logitech,519,Manoj Yadav,Male,Jaipur,Rajasthan,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,4,4560,0,18,21523.2,5440.0,Debit Card
+10044,2026-02-16,101,Laptop Pro 14,Electronics,Dell,512,Pooja Sen,Female,Kolkata,West Bengal,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,1,72000,15,18,72216.0,2200.0,Net Banking
+10045,2026-04-06,103,iPhone 17,Electronics,Apple,508,Ananya Joshi,Female,Pune,Maharashtra,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,4,84550,5,18,379122.2,17290.0,Debit Card
+10046,2026-04-11,107,Office Chair,Furniture,Green Soul,508,Ananya Joshi,Female,Pune,Maharashtra,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,1,14500,0,12,16240.0,4000.0,Cash
+10047,2026-01-29,104,NoiseFit Watch,Wearables,Noise,515,Harish Patel,Male,Ahmedabad,Gujarat,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,2,6180,0,18,14584.8,3960.0,Credit Card
+10048,2026-02-21,106,Logitech Keyboard,Accessories,Logitech,509,Rohit Verma,Male,Mumbai,Maharashtra,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,3,5040,15,18,15165.36,3252.0,Net Banking
+10049,2026-02-12,101,Laptop Pro 14,Electronics,Dell,504,Priya Nair,Female,Bengaluru,Karnataka,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,3,68400,0,18,242136.0,28200.0,Net Banking
+10050,2026-02-25,106,Logitech Keyboard,Accessories,Logitech,511,Sandeep Das,Male,Kolkata,West Bengal,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,4,5040,5,18,22599.36,6352.0,Debit Card
+10051,2026-01-06,112,Backpack,Bags,Wildcraft,514,Ishita Mehta,Female,Delhi,Delhi,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,3,4200,0,12,14112.0,4200.0,Debit Card
+10052,2026-03-21,106,Logitech Keyboard,Accessories,Logitech,504,Priya Nair,Female,Bengaluru,Karnataka,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,4,4800,15,18,19257.6,3520.0,Debit Card
+10053,2026-03-12,103,iPhone 17,Electronics,Apple,507,Vikram Singh,Male,Pune,Maharashtra,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,2,93450,10,18,198487.8,16210.0,Cash
+10054,2026-03-12,101,Laptop Pro 14,Electronics,Dell,510,Meera Shah,Female,Mumbai,Maharashtra,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,4,75600,10,18,321148.8,36160.0,Cash
+10055,2026-02-26,108,Study Desk,Furniture,IKEA,507,Vikram Singh,Male,Pune,Maharashtra,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,18900,0,12,42336.0,10800.0,Debit Card
+10056,2026-03-07,111,Running Shoes,Footwear,Nike,520,Kavya Yadav,Female,Jaipur,Rajasthan,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,2,9450,10,12,19051.2,4610.0,Credit Card
+10057,2026-04-14,104,NoiseFit Watch,Wearables,Noise,505,Kiran Kumar,Male,Chennai,Tamil Nadu,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,2,6500,0,18,15340.0,4600.0,Cash
+10058,2026-02-23,111,Running Shoes,Footwear,Nike,519,Manoj Yadav,Male,Jaipur,Rajasthan,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,4,9000,5,12,38304.0,9400.0,Credit Card
+10059,2026-03-25,112,Backpack,Bags,Wildcraft,501,Arjun Reddy,Male,Hyderabad,Telangana,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,2,3990,15,12,7596.96,1183.0,UPI
+10060,2026-03-13,104,NoiseFit Watch,Wearables,Noise,504,Priya Nair,Female,Bengaluru,Karnataka,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,4,6820,10,18,28971.36,7752.0,Cash
+10061,2026-03-20,112,Backpack,Bags,Wildcraft,517,Ajay Menon,Male,Kochi,Kerala,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,2,4410,15,12,8396.64,1897.0,Cash
+10062,2026-02-03,104,NoiseFit Watch,Wearables,Noise,509,Rohit Verma,Male,Mumbai,Maharashtra,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,6500,15,18,13039.0,2650.0,UPI
+10063,2026-04-02,105,Sony Headphones,Accessories,Sony,508,Ananya Joshi,Female,Pune,Maharashtra,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,3,13120,0,18,46444.8,12360.0,Credit Card
+10064,2026-01-20,104,NoiseFit Watch,Wearables,Noise,513,Naveen Gupta,Male,Delhi,Delhi,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,1,6500,15,18,6519.5,1325.0,Debit Card
+10065,2026-03-11,108,Study Desk,Furniture,IKEA,514,Ishita Mehta,Female,Delhi,Delhi,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,4,18000,0,12,80640.0,18000.0,Net Banking
+10066,2026-02-18,108,Study Desk,Furniture,IKEA,501,Arjun Reddy,Male,Hyderabad,Telangana,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,4,18000,5,12,76608.0,14400.0,Cash
+10067,2026-01-29,105,Sony Headphones,Accessories,Sony,514,Ishita Mehta,Female,Delhi,Delhi,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,4,12500,15,18,50150.0,6500.0,Credit Card
+10068,2026-04-18,108,Study Desk,Furniture,IKEA,505,Kiran Kumar,Male,Chennai,Tamil Nadu,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,4,18900,0,12,84672.0,21600.0,UPI
+10069,2026-03-24,107,Office Chair,Furniture,Green Soul,505,Kiran Kumar,Male,Chennai,Tamil Nadu,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,14500,15,12,13804.0,1825.0,Debit Card
+10070,2026-01-28,108,Study Desk,Furniture,IKEA,511,Sandeep Das,Male,Kolkata,West Bengal,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,3,18000,10,12,54432.0,8100.0,UPI
+10071,2026-03-02,101,Laptop Pro 14,Electronics,Dell,518,Lakshmi Menon,Female,Kochi,Kerala,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,2,75600,0,18,178416.0,33200.0,UPI
+10072,2026-04-07,101,Laptop Pro 14,Electronics,Dell,508,Ananya Joshi,Female,Pune,Maharashtra,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,2,68400,5,18,153352.8,11960.0,Cash
+10073,2026-03-27,102,Galaxy S25,Electronics,Samsung,519,Manoj Yadav,Male,Jaipur,Rajasthan,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,3,68000,5,18,228684.0,25800.0,Net Banking
+10074,2026-03-19,112,Backpack,Bags,Wildcraft,504,Priya Nair,Female,Bengaluru,Karnataka,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,1,4410,0,12,4939.2,1610.0,Debit Card
+10075,2026-03-15,111,Running Shoes,Footwear,Nike,513,Naveen Gupta,Male,Delhi,Delhi,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,9450,5,12,10054.8,2777.5,UPI
+10076,2026-03-31,105,Sony Headphones,Accessories,Sony,520,Kavya Yadav,Female,Jaipur,Rajasthan,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,3,13120,15,18,39478.08,6456.0,Debit Card
+10077,2026-01-09,109,Air Fryer,Home Appliances,Philips,511,Sandeep Das,Male,Kolkata,West Bengal,201,Hyderabad Central,Hyderabad,Telangana,302,Swathi Reddy,4,10450,15,18,41925.4,4330.0,Debit Card
+10078,2026-03-23,108,Study Desk,Furniture,IKEA,505,Kiran Kumar,Male,Chennai,Tamil Nadu,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,3,18900,15,12,53978.4,7695.0,Cash
+10079,2026-02-25,112,Backpack,Bags,Wildcraft,519,Manoj Yadav,Male,Jaipur,Rajasthan,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,2,3990,10,12,8043.84,1582.0,Cash
+10080,2026-02-01,108,Study Desk,Furniture,IKEA,519,Manoj Yadav,Male,Jaipur,Rajasthan,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,3,17100,15,12,48837.6,3105.0,Debit Card
+10081,2026-01-24,108,Study Desk,Furniture,IKEA,507,Vikram Singh,Male,Pune,Maharashtra,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,3,18000,10,12,54432.0,8100.0,Net Banking
+10082,2026-01-02,109,Air Fryer,Home Appliances,Philips,507,Vikram Singh,Male,Pune,Maharashtra,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,4,11000,5,18,49324.0,10600.0,Cash
+10083,2026-03-24,112,Backpack,Bags,Wildcraft,516,Nisha Patel,Female,Ahmedabad,Gujarat,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,4200,5,12,4468.8,1190.0,Cash
+10084,2026-03-30,104,NoiseFit Watch,Wearables,Noise,510,Meera Shah,Female,Mumbai,Maharashtra,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,4,6820,10,18,28971.36,7752.0,Cash
+10085,2026-04-06,109,Air Fryer,Home Appliances,Philips,511,Sandeep Das,Male,Kolkata,West Bengal,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,3,11000,10,18,35046.0,6300.0,Credit Card
+10086,2026-01-16,112,Backpack,Bags,Wildcraft,507,Vikram Singh,Male,Pune,Maharashtra,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,2,3990,5,12,8490.72,1981.0,Cash
+10087,2026-02-05,112,Backpack,Bags,Wildcraft,519,Manoj Yadav,Male,Jaipur,Rajasthan,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,1,3990,10,12,4021.92,791.0,Credit Card
+10088,2026-02-16,103,iPhone 17,Electronics,Apple,510,Meera Shah,Female,Mumbai,Maharashtra,201,Hyderabad Central,Hyderabad,Telangana,301,Anil Kumar,3,84550,0,18,299307.0,25650.0,Net Banking
+10089,2026-02-07,112,Backpack,Bags,Wildcraft,505,Kiran Kumar,Male,Chennai,Tamil Nadu,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,4410,10,12,4445.28,1169.0,Cash
+10090,2026-03-03,108,Study Desk,Furniture,IKEA,511,Sandeep Das,Male,Kolkata,West Bengal,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,3,18000,0,12,60480.0,13500.0,UPI
+10091,2026-02-21,108,Study Desk,Furniture,IKEA,503,Rahul Sharma,Male,Bengaluru,Karnataka,205,Delhi Capital Store,Delhi,Delhi,308,Pavani Mehta,2,17100,10,12,34473.6,3780.0,UPI
+10092,2026-02-01,102,Galaxy S25,Electronics,Samsung,518,Lakshmi Menon,Female,Kochi,Kerala,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,4,68000,15,18,272816.0,7200.0,Debit Card
+10093,2026-04-21,110,Mixer Grinder,Home Appliances,Preethi,514,Ishita Mehta,Female,Delhi,Delhi,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,1,6840,5,18,7667.64,1498.0,Debit Card
+10094,2026-03-26,102,Galaxy S25,Electronics,Samsung,506,Divya Iyer,Female,Chennai,Tamil Nadu,202,Bengaluru Mega Store,Bengaluru,Karnataka,303,Karthik Rao,1,64600,0,18,76228.0,8600.0,Cash
+10095,2026-02-27,112,Backpack,Bags,Wildcraft,520,Kavya Yadav,Female,Jaipur,Rajasthan,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,3990,10,12,4021.92,791.0,Debit Card
+10096,2026-03-31,108,Study Desk,Furniture,IKEA,503,Rahul Sharma,Male,Bengaluru,Karnataka,202,Bengaluru Mega Store,Bengaluru,Karnataka,304,Neha Sharma,2,18000,0,12,40320.0,9000.0,Net Banking
+10097,2026-01-29,111,Running Shoes,Footwear,Nike,505,Kiran Kumar,Male,Chennai,Tamil Nadu,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,1,8550,5,12,9097.2,1922.5,Debit Card
+10098,2026-03-18,112,Backpack,Bags,Wildcraft,519,Manoj Yadav,Male,Jaipur,Rajasthan,203,Chennai City Store,Chennai,Tamil Nadu,306,Deepa Nair,1,4200,10,12,4233.6,980.0,Cash
+10099,2026-02-04,109,Air Fryer,Home Appliances,Philips,518,Lakshmi Menon,Female,Kochi,Kerala,204,Mumbai Metro Store,Mumbai,Maharashtra,307,Amit Shah,1,11550,0,18,13629.0,3750.0,Cash
+10100,2026-04-05,106,Logitech Keyboard,Accessories,Logitech,520,Kavya Yadav,Female,Jaipur,Rajasthan,203,Chennai City Store,Chennai,Tamil Nadu,305,Ramesh Iyer,1,4560,0,18,5380.8,1360.0,Debit Card

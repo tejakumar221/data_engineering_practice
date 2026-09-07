@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,full_name,gender,date_of_birth,date_of_joining,department_id,department_name,job_title,employment_type,work_location,city,state,email_id,phone_number,base_salary,bonus_percent,performance_rating,manager_id,project_id,experience_years,active_status,last_updated_date
+1003,Arjun,Rao,Arjun Rao,Male,1994-06-12,2021-03-15,10,Data Engineering,Data Engineer,Full Time,Hybrid,Hyderabad,Telangana,arjun.rao1003@example.com,9123456703,98000,15,4.5,501,701,5.5,Active,2026-09-05
+1010,Priya,Das,Priya Das,Female,1992-11-03,2020-07-20,40,Analytics,BI Analyst,Full Time,Office,Bengaluru,Karnataka,priya.das1010@example.com,9123456710,88000,12,4.0,504,704,6.1,Active,2026-09-05
+1025,Karthik,Reddy,Karthik Reddy,Male,1991-04-19,2019-02-10,20,Development,Backend Developer,Full Time,Remote,Chennai,Tamil Nadu,karthik.reddy1025@example.com,9123456725,105000,15,4.5,502,702,7.6,Active,2026-09-05
+1050,Sneha,Patel,Sneha Patel,Female,1995-09-27,2022-01-12,30,Testing,Automation Tester,Full Time,Hybrid,Pune,Maharashtra,sneha.patel1050@example.com,9123456750,76000,10,4.0,503,703,4.7,Active,2026-09-05
+1100,Vikram,Singh,Vikram Singh,Male,1989-12-08,2018-06-18,60,Operations,Operations Lead,Full Time,Office,Mumbai,Maharashtra,vikram.singh1100@example.com,9123456800,115000,20,5.0,506,708,8.2,Active,2026-09-05
+1121,Aarav,Sharma,Aarav Sharma,Male,1998-02-14,2026-09-05,10,Data Engineering,Data Engineer,Full Time,Hybrid,Hyderabad,Telangana,aarav.sharma1121@example.com,9234567121,65000,8,3.5,501,701,0.0,Active,2026-09-05
+1122,Diya,Reddy,Diya Reddy,Female,1997-05-22,2026-09-05,40,Analytics,Data Analyst,Full Time,Office,Bengaluru,Karnataka,diya.reddy1122@example.com,9234567122,62000,8,4.0,504,704,0.0,Active,2026-09-05
+1123,Rohan,Kumar,Rohan Kumar,Male,1996-08-11,2026-09-05,20,Development,Software Developer,Full Time,Remote,Chennai,Tamil Nadu,rohan.kumar1123@example.com,9234567123,70000,10,3.5,502,702,0.0,Active,2026-09-05
+1124,Kavya,Menon,Kavya Menon,Female,1998-10-30,2026-09-05,30,Testing,QA Engineer,Full Time,Hybrid,Kochi,Kerala,kavya.menon1124@example.com,9234567124,60000,5,4.0,503,703,0.0,Active,2026-09-05
+1125,Sai,Naidu,Sai Naidu,Male,1997-01-17,2026-09-05,60,Operations,Operations Analyst,Full Time,Office,Vijayawada,Andhra Pradesh,sai.naidu1125@example.com,9234567125,58000,5,3.5,506,708,0.0,Active,2026-09-05

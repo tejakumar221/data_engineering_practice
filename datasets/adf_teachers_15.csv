@@ -1,0 +1,16 @@
+teacher_id,teacher_full_name,gender,date_of_birth,joining_date,subject,qualification,salary
+501,Anil Kumar Reddy,Male,1986-03-14,2013-06-10,Mathematics,"M.Sc Mathematics, B.Ed",62000
+502,Priya Sharma,Female,1989-07-22,2016-06-15,Physics,"M.Sc Physics, B.Ed",59000
+503,Ravi Teja Rao,Male,1984-11-05,2011-06-08,Chemistry,"M.Sc Chemistry, B.Ed",65000
+504,Sneha Reddy,Female,1990-02-18,2017-06-12,English,"M.A English, B.Ed",57000
+505,Karthik Naidu,Male,1987-09-09,2014-06-09,Mathematics,"M.Sc Mathematics, B.Ed",61000
+506,Meena Iyer,Female,1988-12-27,2015-06-11,Biology,"M.Sc Biology, B.Ed",60000
+507,Suresh Kumar,Male,1985-05-16,2012-06-14,Physics,"M.Sc Physics, B.Ed",64000
+508,Divya Nair,Female,1991-08-30,2018-06-18,Computer Science,"M.Sc Computer Science, B.Ed",58000
+509,Naveen Verma,Male,1983-01-25,2010-06-07,Chemistry,"M.Sc Chemistry, B.Ed",68000
+510,Lakshmi Devi,Female,1986-10-12,2013-06-17,Mathematics,"M.Sc Mathematics, B.Ed",63000
+511,Harish Gupta,Male,1989-04-07,2016-06-13,Social Studies,"M.A History, B.Ed",58500
+512,Pavani Rao,Female,1992-06-21,2019-06-10,English,"M.A English, B.Ed",56000
+513,Mahesh Babu,Male,1982-09-17,2009-06-15,Physics,"M.Sc Physics, B.Ed",70000
+514,Keerthi Reddy,Female,1988-03-29,2015-06-08,Chemistry,"M.Sc Chemistry, B.Ed",61500
+515,Vijay Kumar,Male,1985-12-03,2012-06-12,Computer Science,"M.Tech Computer Science, B.Ed",66000
