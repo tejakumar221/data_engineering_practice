@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "teja-adf-learning-2026"
+		},
+		"LS_ADLSGen2_accountKey": {
+			"value": ""
+		},
+		"LS_AzureBlobStorage_Student_connectionString": {
+			"value": ""
+		},
+		"LS_ADLSGen2_properties_typeProperties_url": {
+			"value": "https://tejaadls2026.dfs.core.windows.net/"
+		},
+		"Employee_File_Event_Based_Trigger_properties_Event_Trigger_Practice_Pipeline_parameters_fileName": {
+			"value": "@triggerBody().fileName"
+		},
+		"Employee_File_Event_Based_Trigger_properties_Event_Trigger_Practice_Pipeline_parameters_folderPath": {
+			"value": "@triggerBody().folderPath"
+		},
+		"Employee_File_Event_Based_Trigger_properties_Event_Trigger_Practice_Pipeline_parameters_TriggerStartTime": {
+			"value": "@trigger().startTime"
+		},
+		"Employee_File_Event_Based_Trigger_properties_typeProperties_scope": {
+			"value": "/subscriptions/f58bd998-d84a-4809-bbc2-b0ca707d258b/resourceGroups/adf-learning-rg/providers/Microsoft.Storage/storageAccounts/tejaadls2026"
+		}
+	}
+}
