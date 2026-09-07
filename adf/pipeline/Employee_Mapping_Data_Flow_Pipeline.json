@@ -1,6 +1,7 @@
 {
 	"name": "Employee_Mapping_Data_Flow_Pipeline",
 	"properties": {
+		"description": "Mapping Data Flow practice pipeline for employee data transformation.",
 		"activities": [
 			{
 				"name": "Data flow1",
