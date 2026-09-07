@@ -1,0 +1,87 @@
+{
+	"name": "Employee_Mapping_Data_Flow",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "Employee_Raw_CSV",
+						"type": "DatasetReference"
+					},
+					"name": "EmployeeSource"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "Employee_Processed_CSV",
+						"type": "DatasetReference"
+					},
+					"name": "EmployeeSink"
+				}
+			],
+			"transformations": [
+				{
+					"name": "HighSalaryEmployees"
+				},
+				{
+					"name": "AddBonus"
+				},
+				{
+					"name": "SelectedEmployeeColumns"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          employee_id as string,",
+				"          first_name as string,",
+				"          last_name as string,",
+				"          full_name as string,",
+				"          gender as string,",
+				"          date_of_birth as string,",
+				"          date_of_joining as string,",
+				"          department_id as string,",
+				"          department_name as string,",
+				"          job_title as string,",
+				"          employment_type as string,",
+				"          work_location as string,",
+				"          city as string,",
+				"          state as string,",
+				"          email_id as string,",
+				"          phone_number as string,",
+				"          base_salary as string,",
+				"          bonus_percent as string,",
+				"          performance_rating as string,",
+				"          manager_id as string,",
+				"          project_id as string,",
+				"          experience_years as string,",
+				"          active_status as string,",
+				"          last_updated_date as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> EmployeeSource",
+				"EmployeeSource filter(toDecimal(base_salary) > 50000) ~> HighSalaryEmployees",
+				"HighSalaryEmployees derive(bonus = toDecimal(base_salary) * 0.10) ~> AddBonus",
+				"AddBonus select(mapColumn(",
+				"          employee_id,",
+				"          first_name,",
+				"          department_name,",
+				"          base_salary,",
+				"          bonus",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> SelectedEmployeeColumns",
+				"SelectedEmployeeColumns sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     truncate: true,",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> EmployeeSink"
+			]
+		}
+	}
+}

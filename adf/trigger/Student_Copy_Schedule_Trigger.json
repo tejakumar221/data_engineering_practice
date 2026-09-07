@@ -1,0 +1,24 @@
+{
+	"name": "Student_Copy_Schedule_Trigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "Student_File_Copy_Pipeline",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2026-09-01T02:57:00",
+				"timeZone": "India Standard Time"
+			}
+		}
+	}
+}

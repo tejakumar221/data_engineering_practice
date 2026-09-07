@@ -1,0 +1,98 @@
+{
+	"name": "Student_Raw_CSV",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLSGen2",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "adf_student_100.csv",
+				"folderPath": "Raw/students",
+				"fileSystem": "datalake"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "student_id",
+				"type": "String"
+			},
+			{
+				"name": "first_name",
+				"type": "String"
+			},
+			{
+				"name": "last_name",
+				"type": "String"
+			},
+			{
+				"name": "class",
+				"type": "String"
+			},
+			{
+				"name": "section",
+				"type": "String"
+			},
+			{
+				"name": "maths_marks",
+				"type": "String"
+			},
+			{
+				"name": "physics_marks",
+				"type": "String"
+			},
+			{
+				"name": "chemistry_marks",
+				"type": "String"
+			},
+			{
+				"name": "total",
+				"type": "String"
+			},
+			{
+				"name": "percentage",
+				"type": "String"
+			},
+			{
+				"name": "average",
+				"type": "String"
+			},
+			{
+				"name": "gender",
+				"type": "String"
+			},
+			{
+				"name": "date_of_birth",
+				"type": "String"
+			},
+			{
+				"name": "admission_date",
+				"type": "String"
+			},
+			{
+				"name": "email_id",
+				"type": "String"
+			},
+			{
+				"name": "contact_number",
+				"type": "String"
+			},
+			{
+				"name": "class_teacher_id",
+				"type": "String"
+			},
+			{
+				"name": "sports_id",
+				"type": "String"
+			}
+		]
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

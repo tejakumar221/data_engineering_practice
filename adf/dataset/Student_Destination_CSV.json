@@ -1,0 +1,24 @@
+{
+	"name": "Student_Destination_CSV",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_AzureBlobStorage_Student",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "adf_students_100_copied.csv",
+				"container": "destination"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,64 @@
+{
+	"name": "Teachers_Lookup_Pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Lookup_Teachers_CSV",
+				"type": "Lookup",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "DelimitedTextSource",
+						"storeSettings": {
+							"type": "AzureBlobStorageReadSettings",
+							"recursive": true,
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "DelimitedTextReadSettings"
+						}
+					},
+					"dataset": {
+						"referenceName": "Teachers_Source_CSV",
+						"type": "DatasetReference"
+					},
+					"firstRowOnly": false
+				}
+			},
+			{
+				"name": "Filter_High_Salary_Teachers",
+				"type": "Filter",
+				"dependsOn": [
+					{
+						"activity": "Lookup_Teachers_CSV",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@activity('Lookup_Teachers_CSV').output.value",
+						"type": "Expression"
+					},
+					"condition": {
+						"value": "@greater(int(item().salary), 65000)",
+						"type": "Expression"
+					}
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2026-09-01T10:38:13Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

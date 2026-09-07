@@ -1,0 +1,26 @@
+{
+	"name": "Master_Teacher_Pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Run_Teachers_Lookup_Pipeline",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"policy": {
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "Teachers_Lookup_Pipeline",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2026-09-01T10:38:14Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

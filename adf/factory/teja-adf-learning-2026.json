@@ -1,0 +1,15 @@
+{
+	"name": "teja-adf-learning-2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cbc853e9-897c-41c2-ac1c-2b6c24d4ef08",
+		"tenantId": "eb7b809f-80bb-471d-8460-69bf2b4fab70"
+	}
+}

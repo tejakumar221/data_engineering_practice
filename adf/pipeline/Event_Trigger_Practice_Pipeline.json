@@ -1,0 +1,30 @@
+{
+	"name": "Event_Trigger_Practice_Pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait_For_Event",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"parameters": {
+			"fileName": {
+				"type": "string"
+			},
+			"folderPath": {
+				"type": "string"
+			},
+			"TriggerStartTime": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2026-09-06T14:26:21Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

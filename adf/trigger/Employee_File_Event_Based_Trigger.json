@@ -1,0 +1,29 @@
+{
+	"name": "Employee_File_Event_Based_Trigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "Event_Trigger_Practice_Pipeline",
+					"type": "PipelineReference"
+				},
+				"parameters": {
+					"fileName": "@triggerBody().fileName",
+					"folderPath": "@triggerBody().folderPath",
+					"TriggerStartTime": "@trigger().startTime"
+				}
+			}
+		],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"blobPathBeginsWith": "/datalake/blobs/Raw/EventPractice/",
+			"ignoreEmptyBlobs": true,
+			"scope": "/subscriptions/f58bd998-d84a-4809-bbc2-b0ca707d258b/resourceGroups/adf-learning-rg/providers/Microsoft.Storage/storageAccounts/tejaadls2026",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Student_Staging_CSV",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLSGen2",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "adf_student_100_staging.csv",
+				"folderPath": "staging/students",
+				"fileSystem": "datalake"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

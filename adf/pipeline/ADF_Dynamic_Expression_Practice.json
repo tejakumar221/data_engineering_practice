@@ -1,0 +1,65 @@
+{
+	"name": "ADF_Dynamic_Expression_Practice",
+	"properties": {
+		"activities": [
+			{
+				"name": "Set_Current_FIle",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "CurrentFile",
+					"value": {
+						"value": "@pipeline().parameters.FileName",
+						"type": "Expression"
+					}
+				}
+			},
+			{
+				"name": "Set_Output_Message",
+				"type": "SetVariable",
+				"dependsOn": [
+					{
+						"activity": "Set_Current_FIle",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "OutputMessage",
+					"value": {
+						"value": "@concat('Processing File:', variables('CurrentFile'))",
+						"type": "Expression"
+					}
+				}
+			}
+		],
+		"parameters": {
+			"FileName": {
+				"type": "string",
+				"defaultValue": "teachers.csv"
+			}
+		},
+		"variables": {
+			"CurrentFile": {
+				"type": "String"
+			},
+			"OutputMessage": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2026-09-01T10:38:13Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
