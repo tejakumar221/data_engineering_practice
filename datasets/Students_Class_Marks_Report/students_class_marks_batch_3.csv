@@ -1,0 +1,12 @@
+student_id,student_name,class_standard,first_language,second_language,first_language_marks,second_language_marks,third_language_marks,mathematics_marks,physics_marks,chemistry_marks,total_science_marks,social_studies_marks,total_marks,percentage,grade,cgpa,last_updated_timestamp
+61116,Neha Chowdary,9,Telugu,Hindi,34,53,23,39,16,27,43,25,217,36.17,F,3.6,2026-09-17 08:30:54
+61117,Ishita Gupta,9,Telugu,Hindi,94,81,75,92,35,33,68,99,509,84.83,A2,8.5,2026-09-17 07:07:52
+61118,Krishna Shetty,6,Hindi,Telugu,91,95,99,90,,,75,83,533,88.83,A2,8.9,2026-09-17 11:10:30
+60062,Keerthi Reddy,6,Telugu,Hindi,77,65,77,64,,,67,68,418,69.67,B2,7.0,2026-09-17 10:41:19
+60587,Harini Iyer,8,Telugu,Hindi,91,98,92,99,39,42,81,99,560,93.33,A1,9.3,2026-09-17 10:20:50
+60646,Deepika Shetty,8,Telugu,Hindi,91,81,99,74,37,40,77,85,507,84.50,A2,8.4,2026-09-17 08:45:20
+60717,Rahul Naidu,9,Hindi,Telugu,90,99,79,73,35,37,72,70,483,80.50,A2,8.1,2026-09-17 16:50:39
+60510,Akash Rao,8,Hindi,Telugu,89,86,99,84,38,46,84,73,515,85.83,A2,8.6,2026-09-11 17:26:41
+61119,Keerthi Rao,8,Hindi,Telugu,80,63,75,43,37,35,72,63,396,66.00,B2,6.6,2026-09-17 09:17:49
+60906,Meghana Shetty,10,Hindi,Telugu,99,89,89,82,45,39,84,69,512,85.33,A2,8.5,2026-09-13 12:35:26
+60322,Tarun Kulkarni,7,Hindi,Telugu,75,66,100,95,,,75,83,494,82.33,A2,8.2,2026-09-17 17:33:11

@@ -1,0 +1,26 @@
+student_id,student_name,class_standard,first_language,second_language,first_language_marks,second_language_marks,third_language_marks,mathematics_marks,physics_marks,chemistry_marks,total_science_marks,social_studies_marks,total_marks,percentage,grade,cgpa,last_updated_timestamp
+60071,Aishwarya Kulkarni,6,Telugu,Hindi,99,79,75,94,,,100,93,540,90.00,A1,9.0,2026-09-13 12:41:15
+61016,Meghana Sharma,10,Telugu,Hindi,87,73,84,88,50,38,88,88,508,84.67,A2,8.5,2026-09-20 14:24:32
+61140,Nikhil Yadav,8,Hindi,Telugu,76,55,82,72,20,41,61,64,410,68.33,B2,6.8,2026-09-20 17:34:24
+60776,Arjun Reddy,9,Telugu,Hindi,80,86,76,91,46,49,95,85,513,85.50,A2,8.6,2026-09-20 17:19:56
+61143,Pranav Verma,9,Telugu,Hindi,45,73,54,65,22,25,47,48,332,55.33,C1,5.5,2026-09-20 08:45:50
+60188,Sneha Menon,6,Hindi,Telugu,80,77,91,81,,,70,63,462,77.00,B1,7.7,2026-09-20 11:04:31
+60126,Surya Gupta,6,Telugu,Hindi,83,84,94,99,,,88,88,536,89.33,A2,8.9,2026-09-20 19:55:21
+60632,Meghana Sharma,8,Telugu,Hindi,80,97,85,96,44,50,94,85,537,89.50,A2,8.9,2026-09-20 13:44:12
+61144,Krishna Shetty,7,Telugu,Hindi,65,45,68,55,,,72,50,355,59.17,C1,5.9,2026-09-20 10:22:01
+60496,Aishwarya Chowdary,8,Telugu,Hindi,88,81,81,78,49,47,96,75,499,83.17,A2,8.3,2026-09-20 09:48:17
+61083,Nandini Menon,10,Hindi,Telugu,87,76,57,77,27,40,67,94,458,76.33,B1,7.6,2026-09-20 09:25:23
+60524,Sneha Kumar,8,Telugu,Hindi,63,80,65,74,36,33,69,90,441,73.50,B1,7.3,2026-09-20 17:37:43
+60164,Vishal Gupta,6,Hindi,Telugu,62,64,68,83,,,79,73,429,71.50,B1,7.2,2026-09-20 20:46:22
+61141,Swathi Gupta,8,Hindi,Telugu,84,77,67,99,47,30,77,81,485,80.83,A2,8.1,2026-09-20 13:56:05
+60784,Vaishnavi Singh,9,Telugu,Hindi,75,65,67,58,39,38,77,51,393,65.50,B2,6.5,2026-09-20 19:17:22
+60038,Keerthi Singh,6,Telugu,Hindi,35,15,49,63,,,44,40,246,41.00,F,4.1,2026-09-20 11:07:37
+60758,Aishwarya Mishra,9,Hindi,Telugu,49,52,43,47,12,19,31,30,252,42.00,F,4.2,2026-09-20 11:03:48
+61142,Meghana Menon,6,Hindi,Telugu,82,65,88,83,,,73,76,467,77.83,B1,7.8,2026-09-20 14:12:29
+60274,Nikhil Kumar,7,Hindi,Telugu,90,100,85,95,,,100,99,569,94.83,A1,9.5,2026-09-20 20:50:27
+60785,Neha Verma,9,Hindi,Telugu,76,85,63,70,42,37,79,67,440,73.33,B1,7.3,2026-09-08 08:38:06
+61146,Arjun Rao,6,Hindi,Telugu,74,76,81,91,,,93,98,513,85.50,A2,8.6,2026-09-20 13:58:17
+61139,Manish Joshi,10,Telugu,Hindi,73,96,85,99,42,35,77,79,509,84.83,A2,8.5,2026-09-20 16:31:40
+61145,Ananya Singh,9,Hindi,Telugu,80,93,83,76,43,35,78,80,490,81.67,A2,8.2,2026-09-20 19:15:45
+60626,Varun Goud,8,Hindi,Telugu,89,99,95,89,40,48,88,89,549,91.50,A1,9.2,2026-09-20 11:47:07
+60017,Aadhya Chowdary,6,Hindi,Telugu,64,90,86,48,,,81,89,458,76.33,B1,7.6,2026-09-13 10:26:54

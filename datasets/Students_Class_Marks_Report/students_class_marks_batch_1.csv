@@ -1,0 +1,18 @@
+student_id,student_name,class_standard,first_language,second_language,first_language_marks,second_language_marks,third_language_marks,mathematics_marks,physics_marks,chemistry_marks,total_science_marks,social_studies_marks,total_marks,percentage,grade,cgpa,last_updated_timestamp
+61104,Aditya Chowdary,6,Telugu,Hindi,92,79,89,82,,,89,80,511,85.17,A2,8.5,2026-09-15 16:58:06
+60133,Surya Nair,6,Hindi,Telugu,83,86,86,67,,,75,68,465,77.50,B1,7.8,2026-09-15 11:26:40
+61103,Divya Verma,8,Telugu,Hindi,94,66,51,65,43,40,83,77,436,72.67,B1,7.3,2026-09-15 18:29:33
+60228,Surya Gupta,7,Hindi,Telugu,99,77,71,99,,,88,71,505,84.17,A2,8.4,2026-09-15 11:29:52
+61105,Sahithi Rao,10,Hindi,Telugu,65,79,68,47,37,30,67,59,385,64.17,B2,6.4,2026-09-15 14:12:57
+60634,Kavya Das,8,Telugu,Hindi,71,60,53,81,48,38,86,72,423,70.50,B1,7.0,2026-09-15 18:52:10
+60267,Neha Joshi,7,Telugu,Hindi,86,84,72,85,,,77,67,471,78.50,B1,7.8,2026-09-15 08:34:40
+60491,Sai Gupta,8,Telugu,Hindi,23,35,28,44,19,11,30,33,193,32.17,F,3.2,2026-09-15 19:26:10
+61101,Meghana Sharma,8,Hindi,Telugu,84,91,92,94,34,47,81,70,512,85.33,A2,8.5,2026-09-15 15:46:49
+60697,Harsha Yadav,9,Hindi,Telugu,53,43,45,41,24,18,42,50,274,45.67,C2,4.6,2026-09-15 13:25:13
+61081,Rahul Naidu,10,Hindi,Telugu,79,83,83,87,42,38,80,86,498,83.00,A2,8.3,2026-09-15 13:25:44
+61049,Meghana Iyer,10,Telugu,Hindi,94,89,81,86,43,39,82,82,514,85.67,A2,8.6,2026-09-15 08:50:40
+61106,Sahithi Reddy,8,Telugu,Hindi,81,90,92,99,50,41,91,99,552,92.00,A1,9.2,2026-09-15 09:43:12
+60521,Lakshmi Menon,8,Telugu,Hindi,35,35,35,37,15,17,32,49,223,37.17,F,3.7,2026-09-15 17:32:47
+61102,Vaishnavi Naidu,10,Hindi,Telugu,73,83,99,85,46,18,64,59,463,77.17,B1,7.7,2026-09-15 07:14:51
+60680,Swathi Gupta,9,Hindi,Telugu,78,81,74,76,30,34,64,95,468,78.00,B1,7.8,2026-09-15 13:24:49
+60890,Surya Kulkarni,10,Telugu,Hindi,65,55,76,76,42,35,77,78,427,71.17,B1,7.1,2026-09-15 16:10:43

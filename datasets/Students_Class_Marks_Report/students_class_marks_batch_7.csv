@@ -1,0 +1,15 @@
+student_id,student_name,class_standard,first_language,second_language,first_language_marks,second_language_marks,third_language_marks,mathematics_marks,physics_marks,chemistry_marks,total_science_marks,social_studies_marks,total_marks,percentage,grade,cgpa,last_updated_timestamp
+60596,Bhavya Shetty,8,Hindi,Telugu,94,96,75,82,38,48,86,73,506,84.33,A2,8.4,2026-09-21 19:55:14
+60865,Pooja Singh,9,Telugu,Hindi,77,79,81,62,36,39,75,91,465,77.50,B1,7.8,2026-09-21 16:10:04
+61148,Meghana Das,6,Hindi,Telugu,99,81,66,94,,,92,99,531,88.50,A2,8.8,2026-09-21 18:22:06
+60825,Tarun Mishra,9,Telugu,Hindi,88,91,77,89,47,37,84,84,513,85.50,A2,8.6,2026-09-21 10:10:51
+61149,Manish Das,6,Telugu,Hindi,67,64,84,49,,,76,94,434,72.33,B1,7.2,2026-09-21 14:33:46
+60826,Tarun Goud,9,Telugu,Hindi,78,88,75,86,28,33,61,69,457,76.17,B1,7.6,2026-09-21 20:33:43
+61147,Vishal Joshi,10,Telugu,Hindi,99,93,95,80,50,47,97,99,563,93.83,A1,9.4,2026-09-21 12:28:50
+60581,Keerthi Das,8,Hindi,Telugu,100,88,77,84,47,48,95,74,518,86.33,A2,8.6,2026-09-21 11:24:24
+60654,Surya Verma,8,Telugu,Hindi,74,73,51,70,26,32,58,73,399,66.50,B2,6.7,2026-09-21 12:15:11
+61150,Arjun Sharma,7,Telugu,Hindi,77,99,94,75,,,76,99,520,86.67,A2,8.7,2026-09-21 13:31:47
+60060,Karthik Verma,6,Telugu,Hindi,50,51,33,30,,,40,49,253,42.17,F,4.2,2026-09-21 09:11:13
+60054,Tarun Chowdary,6,Hindi,Telugu,67,74,86,69,,,71,57,424,70.67,B1,7.1,2026-09-21 11:24:17
+60140,Rohan Menon,6,Hindi,Telugu,77,61,75,98,,,59,63,433,72.17,B1,7.2,2026-09-21 09:08:25
+60763,Aditya Naidu,9,Telugu,Hindi,97,92,94,99,50,42,92,83,557,92.83,A1,9.3,2026-09-21 09:04:34
