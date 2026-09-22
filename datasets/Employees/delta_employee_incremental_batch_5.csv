@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,full_name,gender,date_of_birth,date_of_joining,department_id,department_name,job_title,employment_type,work_location,city,state,email_id,phone_number,base_salary,bonus_percent,performance_rating,manager_id,project_id,experience_years,active_status,last_updated_date
+1050,Kiran,Kulkarni,Kiran Kulkarni,Male,1993-07-25,2014-11-05,1,Engineering,Senior Software Engineer,Full-Time,Hybrid,Delhi,Delhi,kiran.kulkarni1050@example.com,9700143850,72500,5,4.5,910,511,12.0,Active,2026-09-09
+1138,Varun,Naidu,Varun Naidu,Male,1997-11-05,2022-03-12,5,Sales,Sales Executive,Full-Time,Remote,Pune,Maharashtra,varun.naidu1138@example.com,9700155906,92500,13,3.3,950,509,4.8,Active,2026-09-09
+1100,Aarav,Patel,Aarav Patel,Male,1995-09-21,2014-01-01,3,Finance,Senior Financial Analyst,Full-Time,Office,Bengaluru,Karnataka,aarav.patel1100@example.com,9700150700,47500,9,3.5,930,507,12.0,Active,2026-09-09
+1139,Lakshmi,Gupta,Lakshmi Gupta,Female,1998-12-06,2023-04-13,6,Operations,Operations Analyst,Full-Time,Office,Mumbai,Maharashtra,lakshmi.gupta1139@example.com,9700156043,95000,15,3.4,960,510,3.9,Active,2026-09-09
+1015,Neha,Verma,Neha Verma,Female,1994-08-17,2019-12-24,2,Data,Senior Data Engineer,Full-Time,Remote,Hyderabad,Telangana,neha.verma1015@example.com,9700139055,85000,7,3.0,920,512,7.5,Active,2026-09-08
+1132,Nikhil,Patel,Nikhil Patel,Male,1991-05-26,2016-09-06,5,Sales,Senior Sales Executive,Full-Time,Remote,Pune,Maharashtra,nikhil.patel1132@example.com,9700155084,77500,13,4.7,950,503,10.2,Active,2026-09-09
+1140,Aarav,Joshi,Aarav Joshi,Male,1987-01-07,2014-05-14,1,Engineering,Software Engineer,Full-Time,Hybrid,Delhi,Delhi,aarav.joshi1140@example.com,9700156180,47500,5,3.5,910,511,12.0,Active,2026-09-09
+1135,Neha,Das,Neha Das,Female,1994-08-02,2019-12-09,2,Data,Senior Data Engineer,Full-Time,Remote,Hyderabad,Telangana,neha.das1135@example.com,9700155495,85000,7,3.0,920,506,7.5,Active,2026-09-09
+1141,Ananya,Mishra,Ananya Mishra,Female,1988-02-08,2015-06-15,2,Data,Data Engineer,Full-Time,Remote,Hyderabad,Telangana,ananya.mishra1141@example.com,9700156317,50000,7,3.6,920,512,11.1,Active,2026-09-09
+1192,Nikhil,Singh,Nikhil Singh,Male,1991-05-05,2016-09-12,5,Sales,Sales Executive,Full-Time,Remote,Pune,Maharashtra,nikhil.singh1192@example.com,9700163304,77500,13,4.7,950,509,10.2,Active,2026-09-08

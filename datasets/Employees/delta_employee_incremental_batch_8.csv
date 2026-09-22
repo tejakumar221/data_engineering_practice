@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,full_name,gender,date_of_birth,date_of_joining,department_id,department_name,job_title,employment_type,work_location,city,state,email_id,phone_number,base_salary,bonus_percent,performance_rating,manager_id,project_id,experience_years,active_status,last_updated_date
+1010,Kiran,Naidu,Kiran Naidu,Male,1989-03-12,2014-07-19,3,Finance,Senior Financial Analyst,Full-Time,Office,Mumbai,Maharashtra,kiran.naidu1010@example.com,9700138370,74000,9,4.8,930,510,12.0,Active,2026-09-12
+1150,Kiran,Mehta,Kiran Mehta,Male,1997-11-17,2014-03-24,5,Sales,Sales Executive,Full-Time,Remote,Hyderabad,Telangana,kiran.mehta1150@example.com,9700157550,74000,13,4.8,950,506,12.0,Active,2026-09-12
+1133,Pooja,Iyer,Pooja Iyer,Female,1992-06-27,2017-10-07,6,Operations,Senior Operations Analyst,Full-Time,Office,Bengaluru,Karnataka,pooja.iyer1133@example.com,9700155221,81500,15,3.1,960,507,9.3,Active,2026-09-12
+1151,Divya,Das,Divya Das,Female,1998-12-18,2015-04-25,6,Operations,Operations Analyst,Full-Time,Office,Bengaluru,Karnataka,divya.das1151@example.com,9700157687,76500,15,4.9,960,507,11.1,Active,2026-09-12
+1025,Kavya,Rao,Kavya Rao,Female,1992-06-27,2019-10-07,6,Operations,Senior Operations Analyst,Full-Time,Office,Bengaluru,Karnataka,kavya.rao1025@example.com,9700140425,61500,15,4.3,960,507,7.5,Active,2026-09-11
+1144,Vikram,Singh,Vikram Singh,Male,1991-05-11,2018-09-18,5,Sales,Senior Sales Executive,Full-Time,Remote,Hyderabad,Telangana,vikram.singh1144@example.com,9700156728,59000,13,4.2,950,500,8.4,Active,2026-09-12
+1152,Nikhil,Reddy,Nikhil Reddy,Male,1987-01-19,2016-05-26,1,Engineering,Software Engineer,Full-Time,Hybrid,Chennai,Tamil Nadu,nikhil.reddy1152@example.com,9700157824,79000,5,3.0,910,508,10.2,Active,2026-09-12
+1147,Meera,Sharma,Meera Sharma,Female,1994-08-14,2021-12-21,2,Data,Senior Data Engineer,Full-Time,Remote,Pune,Maharashtra,meera.sharma1147@example.com,9700157139,66500,7,4.5,920,503,5.7,Active,2026-09-12
+1153,Pooja,Rao,Pooja Rao,Female,1988-02-20,2017-06-27,2,Data,Data Engineer,Full-Time,Remote,Pune,Maharashtra,pooja.rao1153@example.com,9700157961,81500,7,3.1,920,509,9.3,Active,2026-09-12
+1195,Neha,Sharma,Neha Sharma,Female,1994-08-08,2019-12-15,2,Data,Data Engineer,Full-Time,Remote,Pune,Maharashtra,neha.sharma1195@example.com,9700163715,86500,7,3.3,920,515,7.5,Active,2026-09-11

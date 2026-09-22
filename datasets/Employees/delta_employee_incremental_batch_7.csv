@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,full_name,gender,date_of_birth,date_of_joining,department_id,department_name,job_title,employment_type,work_location,city,state,email_id,phone_number,base_salary,bonus_percent,performance_rating,manager_id,project_id,experience_years,active_status,last_updated_date
+1075,Neha,Gupta,Neha Gupta,Female,1994-08-23,2019-12-03,2,Data,Senior Data Engineer,Full-Time,Remote,Chennai,Tamil Nadu,neha.gupta1075@example.com,9700147275,86000,7,3.2,920,502,7.5,Active,2026-09-11
+1146,Arjun,Kulkarni,Arjun Kulkarni,Male,1993-07-13,2020-11-20,1,Engineering,Software Engineer,Full-Time,Hybrid,Bengaluru,Karnataka,arjun.kulkarni1146@example.com,9700157002,63500,5,4.3,910,501,6.6,Active,2026-09-11
+1129,Priya,Nair,Priya Nair,Female,1988-02-23,2023-06-03,2,Data,Senior Data Engineer,Full-Time,Remote,Chennai,Tamil Nadu,priya.nair1129@example.com,9700154673,71000,7,4.6,920,502,3.9,Active,2026-09-11
+1147,Meera,Sharma,Meera Sharma,Female,1994-08-14,2021-12-21,2,Data,Data Engineer,Full-Time,Remote,Chennai,Tamil Nadu,meera.sharma1147@example.com,9700157139,66000,7,4.4,920,502,5.7,Active,2026-09-11
+1110,Kiran,Kumar,Kiran Kumar,Male,1993-07-04,2014-11-11,1,Engineering,Senior Software Engineer,Full-Time,Hybrid,Bengaluru,Karnataka,kiran.kumar1110@example.com,9700152070,73500,5,4.7,910,501,12.0,Active,2026-09-10
+1140,Aarav,Joshi,Aarav Joshi,Male,1987-01-07,2014-05-14,1,Engineering,Senior Software Engineer,Full-Time,Hybrid,Bengaluru,Karnataka,aarav.joshi1140@example.com,9700156180,48500,5,3.7,910,513,12.0,Active,2026-09-11
+1148,Rahul,Patel,Rahul Patel,Male,1995-09-15,2022-01-22,3,Finance,Financial Analyst,Full-Time,Office,Pune,Maharashtra,rahul.patel1148@example.com,9700157276,68500,9,4.5,930,503,4.8,Active,2026-09-11
+1143,Sneha,Verma,Sneha Verma,Female,1990-04-10,2017-08-17,4,HR,Senior HR Executive,Full-Time,Hybrid,Mumbai,Maharashtra,sneha.verma1143@example.com,9700156591,56000,11,4.0,940,516,9.3,Active,2026-09-11
+1149,Priya,Iyer,Priya Iyer,Female,1996-10-16,2023-02-23,4,HR,HR Executive,Full-Time,Hybrid,Mumbai,Maharashtra,priya.iyer1149@example.com,9700157413,71000,11,4.6,940,504,3.9,Active,2026-09-11
+1194,Aditya,Kulkarni,Aditya Kulkarni,Male,1993-07-07,2018-11-14,1,Engineering,Software Engineer,Full-Time,Hybrid,Bengaluru,Karnataka,aditya.kulkarni1194@example.com,9700163578,83500,5,3.1,910,513,8.4,Active,2026-09-10

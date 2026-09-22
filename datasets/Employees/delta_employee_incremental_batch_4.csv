@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,full_name,gender,date_of_birth,date_of_joining,department_id,department_name,job_title,employment_type,work_location,city,state,email_id,phone_number,base_salary,bonus_percent,performance_rating,manager_id,project_id,experience_years,active_status,last_updated_date
+1005,Kavya,Iyer,Kavya Iyer,Female,1996-10-07,2019-02-14,4,HR,Senior HR Executive,Full-Time,Hybrid,Bengaluru,Karnataka,kavya.iyer1005@example.com,9700137685,59500,11,3.9,940,501,7.5,Active,2026-09-08
+1134,Aditya,Mehta,Aditya Mehta,Male,1993-07-01,2018-11-08,1,Engineering,Software Engineer,Full-Time,Hybrid,Mumbai,Maharashtra,aditya.mehta1134@example.com,9700155358,82000,5,4.8,910,504,8.4,Active,2026-09-08
+1030,Kiran,Kumar,Kiran Kumar,Male,1997-11-05,2014-03-12,5,Sales,Senior Sales Executive,Full-Time,Remote,Chennai,Tamil Nadu,kiran.kumar1030@example.com,9700141110,72000,13,4.4,950,508,12.0,Active,2026-09-08
+1135,Neha,Das,Neha Das,Female,1994-08-02,2019-12-09,2,Data,Data Engineer,Full-Time,Remote,Delhi,Delhi,neha.das1135@example.com,9700155495,84500,7,4.9,920,505,7.5,Active,2026-09-08
+1075,Neha,Gupta,Neha Gupta,Female,1994-08-23,2019-12-03,2,Data,Senior Data Engineer,Full-Time,Remote,Delhi,Delhi,neha.gupta1075@example.com,9700147275,84500,7,4.9,920,517,7.5,Active,2026-09-07
+1130,Kiran,Kulkarni,Kiran Kulkarni,Male,1989-03-24,2014-07-04,3,Finance,Senior Financial Analyst,Full-Time,Office,Hyderabad,Telangana,kiran.kulkarni1130@example.com,9700154810,72000,9,4.4,930,500,12.0,Active,2026-09-08
+1136,Sandeep,Reddy,Sandeep Reddy,Male,1995-09-03,2020-01-10,3,Finance,Financial Analyst,Full-Time,Office,Hyderabad,Telangana,sandeep.reddy1136@example.com,9700155632,87000,9,3.0,930,506,6.6,Active,2026-09-08
+1131,Divya,Sharma,Divya Sharma,Female,1990-04-25,2015-08-05,4,HR,Senior HR Executive,Full-Time,Hybrid,Bengaluru,Karnataka,divya.sharma1131@example.com,9700154947,74500,11,4.5,940,501,11.1,Active,2026-09-08
+1137,Swathi,Rao,Swathi Rao,Female,1996-10-04,2021-02-11,4,HR,HR Executive,Full-Time,Hybrid,Bengaluru,Karnataka,swathi.rao1137@example.com,9700155769,89500,11,3.1,940,507,5.7,Active,2026-09-08
+1191,Divya,Verma,Divya Verma,Female,1990-04-04,2015-08-11,4,HR,HR Executive,Full-Time,Hybrid,Bengaluru,Karnataka,divya.verma1191@example.com,9700163167,74500,11,4.5,940,507,11.1,Active,2026-09-07
