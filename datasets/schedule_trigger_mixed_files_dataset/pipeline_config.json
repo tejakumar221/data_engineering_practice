@@ -1,0 +1,12 @@
+{
+  "dataset_name": "customer_schedule_trigger_practice",
+  "allowed_file_type": ".csv",
+  "purpose": "ADF Schedule Trigger + Get Metadata + Filter + ForEach + Copy Activity practice",
+  "expected_csv_files": [
+    "customer_full_load.csv",
+    "customer_incremental_batch_01.csv",
+    "customer_incremental_batch_02.csv",
+    "customer_incremental_batch_03.csv",
+    "customer_incremental_batch_04.csv"
+  ]
+}

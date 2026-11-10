@@ -1,0 +1,3 @@
+Schedule Trigger filtering practice file.
+This TXT file is intentionally included so that ADF Filter activity can exclude it.
+Only CSV files should be processed in the hands-on pipeline.
